@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://huytrieu:P@ssw0rd2712@devconnector.uemtn.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret":"jwtSecret",
+    "githubClientId":"f65af50705bac999172f",
+    "githubSecret":"87a56d0eff4340f80c96fe08a62c28b1574d6f39"
+}
